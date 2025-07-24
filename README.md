@@ -82,11 +82,6 @@ Complete hostel management solution
 - **Features**: Student management, complaints system, mess management
 - **Highlights**: Role-based access, comprehensive admin panel
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urvashitech&theme=react&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ## 💡 What I'm Working On
 
