@@ -1,104 +1,166 @@
-# Hi there! 👋 I'm Urvashi
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Urvashi Kshatriya
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Django+Enthusiast;Web+Development+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
-
-I'm a passionate full-stack developer with a love for building innovative web applications and exploring the latest technologies. I enjoy creating user-friendly interfaces and robust backend systems that solve real-world problems.
-
-- 🔭 I'm currently working on **exciting React and Django projects**
-
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Django, Python, or web development**
-- ⚡ Fun fact: I love creating interactive and responsive user experiences
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-### Database & Tools
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-## 📚 Featured Projects
-
-### 🎬 [Movie Explorer App](https://github.com/urvashitech/Movie_App)
-
-A responsive React application for discovering and managing favorite movies
-
-- **Tech Stack**: React, Context API, CSS, Vite
-- **Features**: Movie search, favorites management, responsive design
-- **Highlights**: Clean UI, local storage integration, real-time search
-
-### 📰 [India News Vista](https://github.com/urvashitech/IndiaNewsVista)
-
-A comprehensive news portal with multilingual support
-
-- **Tech Stack**: Django, PostgreSQL, Docker, REST API
-- **Features**: Multi-language support, cron jobs, social sharing, PWA
-- **Highlights**: Scalable architecture, automated news updates, responsive design
-
-### 🤖 [Pralay Mitra - AI Disaster Predictor](https://github.com/urvashitech/Pralay_Mitra)
-
-AI-powered disaster prediction and management system
-
-- **Tech Stack**: Django, Python, Google AI, Machine Learning
-- **Features**: Disaster prediction, chatbot assistance, admin dashboard
-- **Highlights**: AI integration, real-time predictions, user-friendly interface
-
-### 🧠 [Interactive Quiz App](https://github.com/urvashitech/Quiz_App)
-
-Modern quiz application with dynamic question handling
-
-- **Tech Stack**: React, TailwindCSS, React Router, Vite
-- **Features**: Interactive quizzes, score tracking, responsive design
-- **Highlights**: Modern UI, smooth animations, optimized performance
-
-### 🏨 [Hostel Management System](https://github.com/urvashitech/Hostel_Management)
-
-Complete hostel management solution
-
-- **Tech Stack**: Django, SQLite, Admin Interface
-- **Features**: Student management, complaints system, mess management
-- **Highlights**: Role-based access, comprehensive admin panel
-
-
-## 💡 What I'm Working On
-
-- 🌐 **Full-Stack Development**: Building scalable web applications with React and Django
-- 📱 **Responsive Design**: Creating mobile-first, accessible user interfaces
-- 🚀 **Performance Optimization**: Improving application speed and user experience
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/urvashitech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urvashi-kshatriya-910103288/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urvashikshatriya9@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%26+Problem+Solver;Django+%7C+React+%7C+REST+APIs;Backend+Developer+Focused+on+Scalable+Systems;Building+Modern+Web+Applications" />
 
 </div>
 
+---
 
+## 🌟 About Me
 
+I'm a passionate **Full Stack Developer** focused on building modern,
+scalable, and user-friendly web applications using:
 
+- ⚡ Django & Django REST Framework
+- ⚛️ React.js
+- 🐍 Python Automation
+- 🗄️ SQL & Database Design
+
+I enjoy solving real-world problems through technology and creating systems that combine clean backend architecture with modern frontend experiences.
+
+🏆 **Smart India Hackathon 2025 Grand Finalist**  
+💻 Backend Developer Intern at **Tacoza**  
+🚀 Passionate about APIs, automation systems, and scalable backend engineering
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 🚀 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### ⚙️ Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+---
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🗄️ Database & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 MediQueue — Hospital Queue System
+
+**Tech Stack:** Django REST Framework • React.js • JWT Authentication
+
+Built a full-stack hospital queue and appointment management platform with:
+- Role-based authentication for doctors, patients, and admins
+- Real-time queue management
+- Secure JWT authentication
+- Appointment booking validation to prevent double booking
+
+🔗 Repository:  
+:contentReference[oaicite:0]{index=0}
+
+---
+
+## 🏨 KCGH Management System
+
+**Tech Stack:** Django • Celery • Redis • SQLite
+
+Developed a hostel management portal for:
+- Mess billing automation
+- Complaint management
+- Student authentication system
+- Role-based admin dashboard
+
+Handled automation using Celery + Redis for scheduled monthly billing.
+
+🔗 Repository:  
+:contentReference[oaicite:1]{index=1}
+
+---
+
+## 🤖 Pralay Mitra — AI Disaster Predictor
+
+**Tech Stack:** Django • Python • Google AI
+
+Built an AI-powered disaster prediction and management platform featuring:
+- AI chatbot assistance
+- Disaster prediction workflows
+- Admin monitoring dashboard
+- User-friendly responsive interface
+
+🔗 Repository:  
+:contentReference[oaicite:2]{index=2}
+
+---
+
+## 📊 Automated Email Reporting System
+
+**Tech Stack:** Python • Pandas • OpenPyXL • SMTP
+
+Developed a Python automation system that:
+- Reads Excel/CSV files
+- Generates automated reports
+- Sends scheduled email summaries
+- Eliminates repetitive manual reporting tasks
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=urvashitech&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashitech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/urvashitech">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/urvashi-kshatriya-910103288/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:urvashikshatriya9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Building scalable systems with clean architecture and modern UI.”
+
+</div>
