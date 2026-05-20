@@ -127,17 +127,7 @@ Developed a Python automation system that:
 
 ---
 
-# 📈 GitHub Stats
 
-<div align="center">
-
-![Urvashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=urvashitech&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urvashitech&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
